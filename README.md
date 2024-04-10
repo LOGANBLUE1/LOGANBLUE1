@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![JS Mastery Pro](https://i.postimg.cc/Y24xGvW8/github.png)](https://www.jsmastery.pro)
 
 <!--
 **LOGANBLUE1/LOGANBLUE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
