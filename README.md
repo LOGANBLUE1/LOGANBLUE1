@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <div align="center">
   <img src="animation.gif" width="500" alt="animation.gif"><br>
-  ## Github Stats
+<!--   ## Github Stats -->
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <!-- # 💫 About Me:
@@ -38,7 +38,7 @@ As a backend developer with four years of experience, I've honed my skills in de
 <br>
 
 <div align="center">
-  ## Github Stats
+  # **Github Stats**
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7" alt="Top Langs"/>
