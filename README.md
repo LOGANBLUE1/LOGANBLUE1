@@ -38,7 +38,8 @@ As a backend developer with four years of experience, I've honed my skills in de
 <br>
 
 <div align="center">
-  # **Github Stats**
+  ## GitHub Stats
+
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7" alt="Top Langs"/>
