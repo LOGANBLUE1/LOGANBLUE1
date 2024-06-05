@@ -3,14 +3,10 @@
   <img src="animation.gif" width="500" alt="animation.gif">
 </div>
 <div align="center">
-<img src="https://github.com/aenq/aenq/blob/main/welcome-black-min.gif" alt="Welcome">
-
 ## Github Stats
-<!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&show_icons=true)
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aenq&show_icons=true&locale=en&layout=compact" alt="aenq" /></p>
- -->
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <!-- ![Aenq's GitHub stats](https://github-readme-stats.vercel.app/api?username=aenq&theme=dark&show_icons=true)  -->
 <!-- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aenq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
 </div>
@@ -44,9 +40,7 @@ As a backend developer with four years of experience, I've honed my skills in de
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+
 
 <div align="center">
   ## GitHub Stats
