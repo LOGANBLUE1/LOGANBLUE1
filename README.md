@@ -34,10 +34,12 @@ As a backend developer with four years of experience, I've honed my skills in de
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
+
 <div align="center">
 ## Github Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganblue1&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aenq&theme=dark&show_icons=true&layout=compact&langs_count=7) <br>
 </div>
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--
